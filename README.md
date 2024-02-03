@@ -7,8 +7,6 @@ This repository encapsulates the practical exercises undertaken during the Machi
 ## Table of Contents
 
 - [Lab Work Highlights](#lab-work-highlights)
-- [Project Showcase](#project-showcase)
-- [Folder Structure](#folder-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
